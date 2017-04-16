@@ -1,0 +1,35 @@
+Type Information: 
+------------------
+Column 0 contains: 
+int, 9999
+string, 1
+------------------
+Column 1 contains: 
+date, 9999
+string, 1
+------------------
+Column 2 contains: 
+string, 1
+time, 9999
+------------------
+Column 3 contains: 
+date, 8328
+null, 1671
+string, 1
+
+
+Value Information: 
+------------------
+Column 11 contains: 
+FELONY: 3340
+('INVALID', 'LAW_CAT_CD'): 1
+VIOLATION: 1359
+MISDEMEANOR: 5300
+------------------
+Column 13 contains: 
+QUEENS: 2040
+MANHATTAN: 2229
+BRONX: 2228
+BROOKLYN: 2995
+('INVALID', 'BORO_NM'): 1
+STATEN ISLAND: 507
